@@ -1,0 +1,13 @@
+#include <iostream>
+template <class T>
+void output(T n)
+{
+std::cout << n << std::endl;
+}
+int main()
+{
+output(10);
+output(3.4);
+output("Himanshu");
+return 0;
+}

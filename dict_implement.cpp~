@@ -1,0 +1,10 @@
+#include <iostream>
+#include "hashing.h"
+#include "inventory.h"
+int main()
+{
+  record a;
+  strcpy(a.item_num,"BX112");
+  Hashing obj(33,10);
+  std::cout<<obj.map(a)<<"\n";
+}
