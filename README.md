@@ -7,8 +7,7 @@ Linear Probing,Double Hashing and Chaining are the collision techniques used.Use
 
 Description of various files
 
-testdictionary.cpp is the implementaion file
-inventory.h consists of the record class which has to be inserted in dictionary.
+testdictionary.cpp is the implementaion file\ninventory.h consists of the record class which has to be inserted in dictionary.
 dictionary_hash.h is the header file for dictionary
 openhashing.h is the header file for hashing with collision method linear probing and double hashing
 chainhashing.h is for hashing using chaining as collision avoiding technique.
