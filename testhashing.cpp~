@@ -1,9 +1,0 @@
-#include "hashing.h"
-int main()
-{
-  Hashing h(33,10);
-  record a;
-  strcpy(a.item_num,"B13310");
-  std::cout<<h.map(a)<<"\n";
-
-}
