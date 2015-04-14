@@ -7,16 +7,16 @@ Linear Probing,Double Hashing and Chaining are the collision techniques used.Use
 
 Description of various files
 
-testdictionary.cpp is the implementaion file
+testdictionary.cpp is the implementaion file.
 inventory.h consists of the record class which has to be inserted in dictionary.
-dictionary_hash.h is the header file for dictionary
-openhashing.h is the header file for hashing with collision method linear probing and double hashing
+dictionary_hash.h is the header file for dictionary.
+openhashing.h is the header file for hashing with collision method linear probing and double hashing.
 chainhashing.h is for hashing using chaining as collision avoiding technique.
-hashing.h is for calculating the hash code map and mapping key to an index
-primegen.h is for finding the prime number next to a given prime number
-linkedlist.h is for the linked list using chaining(templates has been used)
+hashing.h is for calculating the hash code map and mapping key to an index.
+primegen.h is for finding the prime number next to a given prime number.
+linkedlist.h is for the linked list using chaining(templates has been used).
 linearlist.h is for the seqential list(templates has been used).
-database.txt is the database file
+database.txt is the database file.
  
 
 
