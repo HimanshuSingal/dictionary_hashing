@@ -2,7 +2,7 @@
 This is the C++ implementation of Dictionary using Hash Tables
 The code has been written from scratch by Himanshu Singal.
 Object Oriented approach is used.
-The main file is testdictionary.cpp which consists of the guide to use the dictionary.h header.
+The main file is testdictionary.cpp which consists of the guide to use the dictionary_hash.h header.
 Linear Probing,Double Hashing and Chaining are the collision techniques used.User is free to choose any technique.
 
 Description of various files
